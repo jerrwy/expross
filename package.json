@@ -1,0 +1,25 @@
+{
+  "name": "expross",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jerrwy/expross.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "jerrwy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerrwy/expross/issues"
+  },
+  "homepage": "https://github.com/jerrwy/expross#readme",
+  "dependencies": {
+    "merge-descriptors": "^1.0.1"
+  }
+}
